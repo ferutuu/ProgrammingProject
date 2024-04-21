@@ -1,2 +1,2 @@
-# ProgrammingProject
+# Programming Project
 Library Management System
